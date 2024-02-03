@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766424218778",
+    "project_id": "fcmapp-b4bbe",
+    "storage_bucket": "fcmapp-b4bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766424218778:android:45868310756c96d13bf323",
+        "android_client_info": {
+          "package_name": "com.nimra.arif.CloudMessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUP_U2lUU9SD05OePH5au1-l70_z5zMXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
